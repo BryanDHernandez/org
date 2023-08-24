@@ -1,0 +1,26 @@
+.orgSection{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tituloOrg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #6278F7;
+    font-size: 40px;
+    font-weight: 400;
+    padding-bottom: 24px;
+    border-bottom: 4px solid #6278F7; 
+}
+
+.orgSection img{
+    display: flex;  
+    justify-content: flex-end;  
+    cursor: pointer;
+    padding-left: 10%;
+    padding-bottom: 24px;
+
+}
